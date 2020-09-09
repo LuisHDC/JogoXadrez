@@ -128,4 +128,3 @@ namespace xadrez_console
         }
     }
 }
-
